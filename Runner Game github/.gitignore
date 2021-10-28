@@ -1,0 +1,12 @@
+Runner Game/[Ll]ibrary/
+Runner Game/[Tt]emp/
+Runner Game/[Oo]bj/
+Runner Game/[Bb]uild/
+Runner Game/[Bb]uilds/
+Runner Game/[Ll]ogs/
+Runner Game/[Mm]emoryCaptures/
+
+
+#Assest meta Data
+!Runner Game/[Aa]ssets/**/*.meta
+
